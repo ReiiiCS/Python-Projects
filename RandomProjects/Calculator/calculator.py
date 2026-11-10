@@ -28,3 +28,7 @@ def main():
         result = (first_number + second_number) / 2
 
     print(f"Result: {result}")
+
+
+if __name__ == "__main__":
+    main()
